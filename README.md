@@ -1,9 +1,9 @@
 # UrlShortner
 
 # Working
-It shortens the URL links to a random alphabets and numbers, saves it in the db.       
-When clicked on the  Shortened URL ,It redirects to original page.       
-This project is created using Nodejs,Bootstrap,MongoDB and Express.  
+It shortens the URL links to random alphabets and numbers, saves it in the db.       
+When clicked on the  Shortened URL ,It redirects to the original page.       
+This project is created using Node Js,Bootstrap,MongoDB and Express.  
 
 
 
